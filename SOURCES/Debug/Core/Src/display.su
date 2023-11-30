@@ -1,0 +1,5 @@
+display.c:12:6:display7SEG	32	static
+display.c:50:6:toggle_SEG	16	static
+display.c:59:6:turn_off_SEG	8	static
+display.c:64:6:update_SEG	16	static
+display.c:68:6:DISPLAY_OUTPUT	8	static
